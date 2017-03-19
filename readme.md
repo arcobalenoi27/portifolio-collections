@@ -29,7 +29,8 @@ These are some of my CSS practice .
  Responsive pattern practice - Simple blog- Column Drop   | [Repository](https://github.com/arcobalenoi27/responsive-web-practices-or-courses/tree/master/simple-blog-with-column-drop-and-flexbox) |  [Click here !](https://arcobalenoi27.github.io/responsive-web-practices-or-courses/simple-blog-with-column-drop-and-flexbox/)
  Responsive pattern practice - Email Layout - Layout Shifter   | [Repository](https://github.com/arcobalenoi27/responsive-web-practices-or-courses/tree/master/email-layout-layout-shifter) |  [Click here !](https://arcobalenoi27.github.io/responsive-web-practices-or-courses/email-layout-layout-shifter/)
  
-#### Simple reaction game
+#### Javascript
+Simple reaction game
 
 It is a simple game to test your reactions.
 
