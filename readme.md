@@ -1,4 +1,5 @@
-###Testcase
+### Testcase
+
 <a href="https://arcobalenoi27.github.io/responsive-web-practices-or-courses/email-layout-layout-shifter/"><img src="./images/readme/email-layout-layout-shifter.png"  title="Responsive practice - Email Layout - Layout Shifter" alt="Responsive practice - Simple blog- column drop" width="250" height="250"></a>
 <a href="https://arcobalenoi27.github.io/responsive-web-practices-or-courses/simple-blog-with-column-drop-and-flexbox/"><img src="./images/readme/simple-blog-column-drop.png"  title="Responsive practice - Simple blog- column drop" alt="Responsive practice - Simple blog- column drop" width="250" height="250"></a>
 <a href="https://arcobalenoi27.github.io/responsive-web-practices-or-courses/omnifood/"><img src="./images/readme/build_responsive_real_world_website.png"  title="Build Responsive Real World Websites with HTML5 and CSS3" alt="Build Responsive Real World Websites with HTML5 and CSS3" width="250" height="250"></a>
@@ -16,7 +17,8 @@
 <a href="http://codepen.io/arcobalenoi27/full/LkJyjO/"><img src="./images/readme/twitch_tracer.png"  title="Twitch Tracer" alt="Twitch Tracer" width="250" height="250"></a>
 <a href="http://codepen.io/arcobalenoi27/full/JRONmB/"><img src="./images/readme/pomodoro_clock.png"  title="Pomodoro Clock" alt="Pomodoro Clock" width="250" height="250"></a>
 
-####CSS
+#### CSS
+
 CSS practice
 These are some of my CSS practice .
 
@@ -27,53 +29,62 @@ These are some of my CSS practice .
  Responsive pattern practice - Simple blog- Column Drop   | [Repository](https://github.com/arcobalenoi27/responsive-web-practices-or-courses/tree/master/simple-blog-with-column-drop-and-flexbox) |  [Click here !](https://arcobalenoi27.github.io/responsive-web-practices-or-courses/simple-blog-with-column-drop-and-flexbox/)
  Responsive pattern practice - Email Layout - Layout Shifter   | [Repository](https://github.com/arcobalenoi27/responsive-web-practices-or-courses/tree/master/email-layout-layout-shifter) |  [Click here !](https://arcobalenoi27.github.io/responsive-web-practices-or-courses/email-layout-layout-shifter/)
  
-####Simple reaction game
+#### Simple reaction game
+
 It is a simple game to test your reactions.
 
  項目  |  Repository  |  Demo
  --- | --- | --- 
  Test your reactions | [Repository](https://github.com/arcobalenoi27/complete-web-developer-course/tree/master/3-javascript/15.external%20javascript) |  [Click here !](https://arcobalenoi27.github.io/complete-web-developer-course/3-javascript/15.external%20javascript/)
  
-####Build Responsive Real World Websites with HTML5 and CSS3
+#### Build Responsive Real World Websites with HTML5 and CSS3
+
 it is a fictional company. And this is its official website.
 
  項目  |  Repository  |  Demo
  --- | --- | --- 
 Build Responsive Real World Websites with HTML5 and CSS3 | [Repository](https://github.com/arcobalenoi27/responsive-web-practices-or-courses/tree/gh-pages/omnifood) |  [Click here !](https://arcobalenoi27.github.io/responsive-web-practices-or-courses/omnifood/)
  
-####Canvas
+#### Canvas
+
 It is a clock that I use HTML5 Canvas to build.
 
  項目  |  Repository  |  Demo
  --- | --- | --- 
  Animated clock | [Repository](https://github.com/arcobalenoi27/canvas-practice/tree/master/clock-with-canvas) |  [Click here !](https://arcobalenoi27.github.io/canvas-practice/clock-with-canvas/)
-####Bootstrap
+ 
+#### Bootstrap
+
 It is a simple landing page that I use Bootstrap 4 (Alpha 6) to build.
 
  項目  |  Repository  |  Demo
  --- | --- | --- 
  Landing page | [Repository](https://github.com/arcobalenoi27/complete-web-developer-course/tree/master/5-Bootstrap4) |  [Click here !](https://arcobalenoi27.github.io/complete-web-developer-course/5-Bootstrap4/8.project-app-landing%20page/)
  
-####Pomodoro Clock
+#### Pomodoro Clock
+
 
  項目  |  Repository  |  Demo
  --- | --- | --- 
  Pomodoro Clock | None |  [demo on Codepen ](http://codepen.io/arcobalenoi27/full/JRONmB/)
  
-####Twitch Tracer
+#### Twitch Tracer
+
 It is a simple APP that you can  use to check  if a Twitch user is currently streaming or not. 
 
  項目  |  Repository  |  Demo
  --- | --- | --- 
  Twitch Tracer | None |  [demo on Codepen ](http://codepen.io/arcobalenoi27/full/LkJyjO/)
-####Wikipedia Searcher
+ 
+#### Wikipedia Searcher
+
 It is a simple APP that you can search Wikipedia entries in search box and see the result of the search of your keyword.
 
  項目  |  Repository  |  Demo
  --- | --- | --- 
  Wikipedia Searcher | None |  [demo on Codepen ](http://codepen.io/arcobalenoi27/full/rLAAYd/)
 
-####Node.js chatroom
+#### Node.js chatroom
 
 This is a realtime chatroom where user can discuss something with someone. user can send message or pictures in this chatroom.
 
@@ -82,12 +93,13 @@ This is a realtime chatroom where user can discuss something with someone. user 
 Node.js chatroom | [Repository](https://github.com/arcobalenoi27/node.js-chatroom) |  [Click here ! ](https://cold-shadow.gomix.me/chat)
 
 
-####React.js
+#### React.js
+
 You can use this APP to search any  video from Youtube with the keywords you like.
 
  項目  |  Repository  |  Demo
  --- | --- | --- 
  Simple Youtube Searcher | [Repository](https://github.com/arcobalenoi27/react-practice-demo) |  [Click here !](https://arcobalenoi27.github.io/react-practice-demo/react-redux-youtube-api/)
 
-###P.S.
+### P.S.
 I am not familiar with English, so if I wrote an incorrect English sentence, please let me know. Thanks : )
