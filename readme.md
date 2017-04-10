@@ -1,5 +1,8 @@
 ### Testcase
 
+<a href="https://arcobalenoi27.github.io/react-practice-demo/react-redux-wiki-search-engine/"><img src="./images/readme/react-redux-wikipedia-search.png"  title="React Redux Wiki Search Engine
+
+" alt="React Redux Wiki Search Engine" width="250" height="250"></a>
 <a href="https://arcobalenoi27.github.io/responsive-web-practices-or-courses/email-layout-layout-shifter/"><img src="./images/readme/email-layout-layout-shifter.png"  title="Responsive practice - Email Layout - Layout Shifter" alt="Responsive practice - Simple blog- column drop" width="250" height="250"></a>
 <a href="https://arcobalenoi27.github.io/responsive-web-practices-or-courses/simple-blog-with-column-drop-and-flexbox/"><img src="./images/readme/simple-blog-column-drop.png"  title="Responsive practice - Simple blog- column drop" alt="Responsive practice - Simple blog- column drop" width="250" height="250"></a>
 <a href="https://arcobalenoi27.github.io/responsive-web-practices-or-courses/omnifood/"><img src="./images/readme/build_responsive_real_world_website.png"  title="Build Responsive Real World Websites with HTML5 and CSS3" alt="Build Responsive Real World Websites with HTML5 and CSS3" width="250" height="250"></a>
@@ -101,6 +104,8 @@ You can use this APP to search any  video from Youtube with the keywords you lik
  項目  |  Repository  |  Demo
  --- | --- | --- 
  Simple Youtube Searcher | [Repository](https://github.com/arcobalenoi27/react-practice-demo) |  [Click here !](https://arcobalenoi27.github.io/react-practice-demo/react-redux-youtube-api/)
+ React Redux Wiki Search Engine | [Repository](https://github.com/arcobalenoi27/react-practice-demo) |  [Click here !](https://arcobalenoi27.github.io/react-practice-demo/react-redux-wiki-search-engine/)
+ 
 
 ### P.S.
 I am not familiar with English, so if I wrote an incorrect English sentence, please let me know. Thanks : )
